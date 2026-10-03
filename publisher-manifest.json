@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "2fb7608097646f9a130a08d8",
+  "owner": "versnjptrd",
+  "repo": "page-44ea3fd6c01d8c9d2f88614b",
+  "title": "B计划猫",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "44ea3fd6c01d8c9d2f88614b",
+      "a": "B计划猫",
+      "b": "",
+      "entity": "B计划猫",
+      "brand": "B计划猫",
+      "separator": "",
+      "path": "index.html",
+      "hash": "7ae72982fd029e3c2b06b66fcbc2c316e673c94e1c4e39162337ef66dd00ac79",
+      "content": {
+        "keyword1": "B计划猫",
+        "keyword2": "",
+        "primary_entity": "B计划猫",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "B计划猫是提供机场订阅与VPN梯子网络加速的官方网站，支持多端客户端下载、流媒体解锁与游戏专线，帮助用户快速完成配置并稳定访问。",
+          "AI_DESCRIPTION": "B计划猫是提供机场订阅与VPN梯子网络加速的官方网站，支持多端客户端下载、流媒体解锁与游戏专线，帮助用户快速完成配置并稳定访问。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}html{overflow-x:hidden}body{font-family:system-ui,-apple-system,\"PingFang SC\",\"Hiragino Sans GB\",\"Microsoft YaHei\",sans-serif;background:#f6f3ee;color:#14261c;line-height:1.75;font-size:16px}a{color:#1b4332}header{background:#1b4332;color:#f6f3ee;padding:14px 0}header a{color:#d8f3dc;text-decoration:none;font-size:14px}nav{display:flex;flex-wrap:wrap;gap:8px 14px}.wrap{width:100%;max-width:720px;margin:0 auto;padding:0 18px}h1{font-size:2.15rem;color:#1b4332;line-height:1.3;margin:0 0 20px;font-weight:700}h2{font-size:1.45rem;color:#2d6a4f;margin:0 0 14px}h3{font-size:1.08rem;color:#1b4332;margin:18px 0 8px}.hero{padding:72px 0 56px}.lead{font-size:1.05rem;color:#3d5c4c;margin-bottom:12px;max-width:38em}section{padding:28px 0 36px;border-bottom:1px solid #e4ddd0}.plan{background:#fff;border:1px solid #d5e0d8;border-radius:10px;padding:18px;margin-bottom:14px}.plan.featured{border:2px solid #2d6a4f;background:#eef6f1}.badge{display:inline-block;background:#2d6a4f;color:#fff;font-size:12px;padding:2px 8px;border-radius:999px;margin-bottom:8px}.price{font-size:1.35rem;font-weight:700;color:#1b4332}.subprice{font-size:14px;color:#4d6b5c;margin:4px 0 10px}.plan ul,.scene-list{padding-left:1.2em;font-size:15px}.step{background:#fff;border-left:4px solid #2d6a4f;padding:14px 16px;margin:12px 0;border-radius:0 8px 8px 0}details{background:#fff;border:1px solid #d5e0d8;border-radius:8px;padding:12px 14px;margin:0 0 10px}summary{font-weight:600;color:#1b4332}details p{margin-top:8px;font-size:15px;color:#2a3f34}.note{font-size:14px;color:#4d6b5c;margin-top:10px}.ads{background:#e8f0ea;padding:16px;border-radius:8px;margin-top:8px;font-size:14px}footer{background:#1b4332;color:#d8f3dc;padding:28px 0 36px;font-size:14px}footer h2,footer h3{color:#b7e4c7;font-size:1rem;margin:0 0 8px}footer a{color:#95d5b2;text-decoration:none;margin-right:12px}.sitemap a,.friends a{display:inline-block;margin:4px 12px 4px 0}p{margin:0 0 10px}</style><header><div class=\"wrap\"><nav><a href=\"#top\">首页</a><a href=\"#intro\">简介</a><a href=\"#scenes\">场景</a><a href=\"#plans\">套餐</a><a href=\"#setup\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></div></header><main><section class=\"hero\" id=\"top\"><div class=\"wrap\"><h1>B计划猫</h1><p class=\"lead\">官方网站。面向个人与团队的机场订阅与 VPN 梯子网络加速服务，提供可导入的订阅、多端客户端下载指引，以及按场景优化的节点与配置流程。</p><p class=\"note\">本页为 B计划猫官网说明页，用于了解套餐、完成订阅导入与官方下载路径，不存放来源不明的安装包。</p></div></section><section id=\"intro\"><div class=\"wrap\"><h2>品牌简介</h2><p>B计划猫把机场订阅、加速器与客户端使用说明放在同一套官方流程里：先选定流量与设备额度，再复制订阅链接，最后在本机客户端中导入节点并按规则分流。服务覆盖日常跨境访问、流媒体播放与对延迟更敏感的游戏线路。</p><p>节点侧提供普通线路池与更高规格的专线选项；套餐按月流量、同时在线设备数和工单优先级区分。旗舰版强调原生流媒体解锁与 IPLC 游戏加速优化，团队版面向多设备与定制路由。无论选择哪一档，配置步骤保持一致，便于在手机与电脑间复用同一条订阅。</p><p>请通过本站导航获取客户端下载说明与操作步骤。若链接来自非官网转发，请回到 B计划猫官方网站核对后再导入，以免订阅被重置或客户端被替换。</p></div></section><section id=\"scenes\"><div class=\"wrap\"><h2>使用场景</h2><h3>流媒体与内容访问</h3><p>在基础线路上即可满足常见海外站点访问；需要更完整的原生解锁时，可改用旗舰版全节点策略，减少播放失败与地区限制提示。</p><h3>跨境办公与资料检索</h3><p>远程桌面、企业云盘与学术数据库对连接稳定性要求更高。建议固定使用延迟较低的节点，并在客户端中开启规则分流，让国内服务直连、海外请求走加速。</p><h3>游戏与实时通话</h3><p>对局与语音对抖动敏感。旗舰版标注的 IPLC 专线游戏加速优化更适合这类场景；团队版则可把多台设备统一到更高带宽节点。</p><ul class=\"scene-list\"><li>个人学习与资料下载：基础版流量即可起步</li><li>多成员共用：按 3 / 5 / 20 台同时在线选择套餐</li><li>企业出口与定制分流：使用团队版路由能力</li></ul></div></section><section id=\"plans\"><div class=\"wrap\"><h2>套餐方案</h2><p>价格与权益以订购页当时展示为准。年付仅为同档位的预付优惠写法，流量按自然月周期计算。</p><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"subprice\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><p class=\"badge\">常用选择</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"subprice\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"subprice\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"setup\"><div class=\"wrap\"><h2>配置流程</h2><p>B计划猫的使用核心是「订阅一次、多端导入」。下面按实际操作顺序说明，建议第一次在电脑完成，再把同一链接同步到手机。</p><div class=\"step\"><h3>第一步：选定套餐并完成订购</h3><p>根据流量、设备数与是否需要 IPLC / 原生解锁选择基础版、旗舰版或团队版。订购成功后，在用户中心即可看到订阅状态与剩余流量。</p></div><div class=\"step\"><h3>第二步：复制通用订阅链接</h3><p>打开订阅管理，复制 Clash / 通用订阅地址。不要把链接发到公开群组。若怀疑泄露，先重置订阅再更新各设备。</p></div><div class=\"step\"><h3>第三步：安装对应系统客户端</h3><p>Windows 与 macOS 可使用 Clash 系图形客户端；Android 使用 Clash Meta 一类应用；iOS 使用 Shadowrocket 或 Stash。安装包请只参考本页「客户端下载」说明，避免第三方捆绑。</p></div><div class=\"step\"><h3>第四步：导入订阅并更新节点</h3><p>在客户端粘贴订阅 URL，执行更新。等待节点列表出现后，按延迟或位置筛选。首次建议先选一个普通节点验证连通，再切换到流媒体或游戏策略组。</p></div><div class=\"step\"><h3>第五步：开启系统代理并检查分流</h3><p>打开 Tun 或系统代理，访问目标站点确认已加速；国内常用服务应保持直连。若某条线路超时，切换节点或等待订阅自动更新即可，无需重复购买。</p></div><p class=\"note\">配置完成后，同一订阅可在套餐允许的设备数内同时在线。更换手机或重装系统时，只需重新导入链接，不必重新规划节点。</p></div></section><section id=\"download\"><div class=\"wrap\"><h2>客户端下载</h2><p>B计划猫官方下载指的是「经官网说明的客户端获取路径」，而不是来路不明的破解包。机场订阅与加速器客户端是分开的：订阅由 B计划猫发放，客户端为各系统常用开源或商店应用。</p><h3>桌面端</h3><p>Windows、macOS 推荐 Clash Verge 或兼容 Clash Meta 配置的图形客户端。安装后选择「从 URL 导入」，粘贴官网用户中心的订阅地址并更新。</p><h3>移动端</h3><p>Android 可安装 Clash Meta for Android。iOS 请在应用商店获取 Shadowrocket、Stash 等支持订阅的应用后导入同一链接。平板计入同时在线设备数。</p><h3>导入注意</h3><p>导入成功的标志是节点列表可刷新、延迟可测。若提示 404 或空列表，先检查订阅是否过期、是否被重置。官方网站不通过即时通讯发送可执行文件。</p><p class=\"note\">需要安装包时，请停留在 B计划猫官网下载说明对应的锚点区域，或从用户中心给出的文档链接进入，勿搜索引擎随意点击广告位。</p></div></section><section id=\"faq\"><div class=\"wrap\"><h2>常见问题</h2><details><summary>B计划猫是机场还是 VPN 加速器？和官网下载有什么关系？</summary><p>B计划猫同时提供机场订阅与可作为梯子使用的网络加速能力。官网负责说明套餐、配置流程和客户端下载路径；真正连接由你本机客户端完成，订阅链接是桥梁。</p></details><details><summary>第一次使用应该怎样走完配置流程？</summary><p>按本页顺序：选套餐、复制订阅、安装客户端、导入更新、开启代理。不要跳过「更新节点」这一步，否则列表为空。手机与电脑使用同一链接即可。</p></details><details><summary>基础版、旗舰版、团队版怎么选？</summary><p>轻度访问选基础版（100GB / 3 台）。需要原生流媒体、IPLC 游戏优化和优先工单选旗舰版。多设备或要定制路由选团队版。年付只影响支付总额，不改变单月流量规则。</p></details><details><summary>客户端应该从哪里下载才算官方？</summary><p>以 B计划猫官网下载说明为准。桌面端使用主流 Clash 系客户端，移动端使用商店或开源发布页。任何要求关闭杀毒、填写验证码才能「免费加速」的来源都不要安装。</p></details><details><summary>流媒体播不了或游戏延迟高怎么办？</summary><p>先切换节点并更新订阅。基础版仅承诺基础流媒体；完整原生解锁与 IPLC 优化在旗舰版。游戏请避开晚高峰拥挤节点，必要时提交优先工单。</p></details><details><summary>设备超了或流量用完会怎样？</summary><p>超过同时在线台数时，新设备可能无法连接，需下线一台或升级套餐。月流量用尽后加速会暂停，可等待重置或升级。团队版适合需要更大额度的共用场景。</p></details><details><summary>订阅链接安全吗？泄露后如何处理？</summary><p>订阅等同于访问凭证，不要截图发到公开渠道。一旦泄露，在用户中心重置，旧链接立即失效，再把新链接导入各客户端。这是比更换密码更直接的处理方式。</p></details></div></section><section id=\"ads\"><div class=\"wrap\"><h2>合作推广</h2><div class=\"ads\"><p>广告位：企业专线与团队版定制路由咨询，请通过官网工单说明使用人数与分流需求。本栏仅展示与网络加速相关的合作信息，不嵌入外部脚本或跳转表单。</p></div></div></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"wrap\"><h2>网站地图</h2><p class=\"sitemap\"><a href=\"#top\">首页</a><a href=\"#intro\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#plans\">套餐方案</a><a href=\"#setup\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#faq\">常见问题</a><a href=\"#ads\">合作推广</a></p><h3>友情链接</h3><p class=\"friends\"><a href=\"#\">跨境办公指南</a><a href=\"#\">客户端导入说明</a><a href=\"#\">分流规则入门</a><a href=\"#\">节点延迟排查</a></p><p>B计划猫官方网站 · 机场订阅与 VPN 梯子网络加速 · 客户端请经官网下载说明获取</p><p>canonical：https://www.bjihuamao.com/</p></div></footer>",
+          "hash": "1b794f1c7d950d53df1ff6f6f6aa00239d8b68c4e052b328aa731eb89e3006de",
+          "seo": {
+            "title": "B计划猫官方网站：机场订阅、VPN梯子加速器与客户端下载",
+            "keywords": "B计划猫,B计划猫机场,B计划猫VPN,B计划猫官网,梯子,网络加速,加速器,客户端下载,机场订阅,官方下载",
+            "description": "B计划猫是提供机场订阅与VPN梯子网络加速的官方网站，支持多端客户端下载、流媒体解锁与游戏专线，帮助用户快速完成配置并稳定访问。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "mztnjsv.cn",
+    "host": "p-7fd95ad78b.mztnjsv.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "mztnjsv.cn",
+      "url": "https://mztnjsv.cn/",
+      "label": "V2云",
+      "apex": "mztnjsv.cn",
+      "kind": null,
+      "identity": "vueukyavdu/page-e902e9e10c35359d91630bd1"
+    },
+    {
+      "host": "ikunclash.com",
+      "url": "https://ikunclash.com/",
+      "label": "B计划猫",
+      "apex": "ikunclash.com",
+      "kind": null,
+      "identity": "dytj76/page-4dbb7123ef343559d196685e"
+    },
+    {
+      "host": "muyun4.cn",
+      "url": "https://muyun4.cn/",
+      "label": "B计划猫",
+      "apex": "muyun4.cn",
+      "kind": null,
+      "identity": "jkcgyju7/page-7b594bc6ece7856cb12a938a"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "83d3161d57b6f61f4e20ef17af8657dbb88dacf0bc8a9910d3f7a19dd25be979",
+    "sitemap.xml": "5291ff7e9414acbaee0c19098271a7db96b7199c256218c68565b33f26ac1d2f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7859287cdbd63fd551743b1a6afd62b3fe7899d8ecc601e9d1f4561cedb4079c",
+    "robots.txt": "5ad529ae98aa6c1b553c725bbf6c80dbb3e421948279b919bb858f4bd03503ed",
+    "318ce7c24719fc9058a829af4bdf08f0.txt": "3f9f543d360781d3da1648da1f085495d18465896fb4cb0e5afbfa7e37d8ccab"
+  },
+  "revision": "4f43a06e75993b6ad58a902c44230472eedd15747d7f2fd28a58c3fce3582e28"
+}
